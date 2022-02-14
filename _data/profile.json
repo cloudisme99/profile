@@ -1,9 +1,9 @@
 {
-    "name": "Comedu School",
-    "image": "assets/img/user/user.png",
-    "email": "comeduschool@gmail.com",
+    "name": "Heo",
+    "image": "assets/img/user/clouds.png",
+    "email": "cloudisme99@gmail.com",
     "phone": "+82 10 1234 4567",
-    "birth": "Jan 1, 2001",
+    "birth": "",
     "resumes": [
         {
             "label": "RESUME",
