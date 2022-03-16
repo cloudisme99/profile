@@ -1,9 +1,9 @@
 [
     {
         "image": "assets/img/projects/project1.jpg",
-        "title": "My Title 01",
+        "title": "Naver news Scraping & WordCloud",
         "description": "My Description 01",
-        "link": "#"
+        "link": "https://colab.research.google.com/drive/1vFvZKlmNcoBsa9dONuXIGbBJXrRGudGl?usp=sharing"
     },
     {
         "image": "assets/img/projects/project2.jpg",
