@@ -1,38 +1,32 @@
 [
     {
-        "image": "assets/img/projects/project1.jpg",
-        "title": "Naver news Scraping & WordCloud",
-        "description": "My Description 01",
+        "image": "assets/img/projects/project1_news.jpg",
+        "title": "NAVER news Scraping & WordCloud",
         "link": "https://colab.research.google.com/drive/1vFvZKlmNcoBsa9dONuXIGbBJXrRGudGl?usp=sharing"
     },
     {
-        "image": "assets/img/projects/project2.jpg",
-        "title": "My Title 02",
-        "description": "My Description 02",
-        "link": "#"
+        "image": "assets/img/projects/project2_movenet.jpg",
+        "title": "Tensorflow Movenet - Thunder",
+        "link": "https://colab.research.google.com/drive/1JTFP9a9c89D8lHJLQaVjVzrk9kCZxlKg?usp=sharing"
     },
     {
         "image": "assets/img/projects/project3.jpg",
         "title": "My Title 03",
-        "description": "My Description 03",
         "link": "#"
     },
     {
         "image": "assets/img/projects/project4.jpg",
         "title": "My Title 04",
-        "description": "My Description 04",
         "link": "#"
     },
     {
         "image": "assets/img/projects/project5.jpg",
         "title": "My Title 05",
-        "description": "My Description 05",
         "link": "#"
     },
     {
         "image": "assets/img/projects/project6.jpg",
         "title": "My Title 06",
-        "description": "My Description 06",
         "link": "#"
     }
 ]

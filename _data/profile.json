@@ -2,16 +2,16 @@
     "name": "Heo",
     "image": "assets/img/user/clouds.png",
     "email": "cloudisme99@gmail.com",
-    "phone": "+82 10 1234 4567",
+    "phone": "+82 10 4801 3062",
     "birth": "",
     "resumes": [
         {
             "label": "RESUME",
-            "link": "assets/resume/my-resume.txt"
+            "link": "assets/resume/resume.pdf"
         },
         {
             "label": "PORTFOLIO",
-            "link": "https://swmaestro.org/sw/cmmn/file/fileDown.do?atchFileId=a269afb2417d46ff9a2167942b728001&fileSn=3"
+            "link": "https://cloudisme99.github.io/profile/my-profile.html"
         }
     ],
     "socials": [
@@ -37,7 +37,7 @@
             "name": "youtube",
             "icon": "mdi-youtube",
             "class": "btn-youtube",
-            "link": "https://www.youtube.com/channel/UCLaPIscAkcngYMq6IAT6RDw"
+            "link": ""
         },
         {
             "name": "skype",
