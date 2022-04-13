@@ -1,32 +1,37 @@
 [
     {
-        "image": "assets/img/projects/project1_news.jpg",
-        "title": "NAVER news Scraping & WordCloud",
-        "link": "https://colab.research.google.com/drive/1vFvZKlmNcoBsa9dONuXIGbBJXrRGudGl?usp=sharing"
+        "image": "assets/img/projects/project1.jpg",
+        "title": "SW 교육 컨텐츠 공모전",
+        "link": "#"
     },
     {
-        "image": "assets/img/projects/project2_movenet.jpg",
-        "title": "Tensorflow Movenet - Thunder",
-        "link": "https://colab.research.google.com/drive/1JTFP9a9c89D8lHJLQaVjVzrk9kCZxlKg?usp=sharing"
+        "image": "assets/img/projects/snakegame.JPG",
+        "title": "OSS - pygame: snakegame 기능 추가",
+        "link": "assets/projects/OSS_snakepygame.pdf"
+    },
+    {
+        "image": "assets/img/projects/project1.jpg",
+        "title": "오픈소스하드웨어 - Arduino",
+        "link": "#"
     },
     {
         "image": "assets/img/projects/project3.jpg",
-        "title": "My Title 03",
+        "title": "캡스톤 - 스마트도어락(Arduino)",
         "link": "#"
     },
     {
         "image": "assets/img/projects/project4.jpg",
-        "title": "My Title 04",
+        "title": "인턴십 프로젝트 - 주유소마감관리시스템 웹 페이지 유지보수",
         "link": "#"
     },
     {
-        "image": "assets/img/projects/project5.jpg",
-        "title": "My Title 05",
-        "link": "#"
+        "image": "assets/img/projects/project1_news.jpg",
+        "title": "'NAVER' news Scraping & WordCloud",
+        "link": "https://colab.research.google.com/drive/1vFvZKlmNcoBsa9dONuXIGbBJXrRGudGl?usp=sharing"
     },
     {
-        "image": "assets/img/projects/project6.jpg",
-        "title": "My Title 06",
-        "link": "#"
+        "image": "assets/img/projects/movenet_capture.jpg",
+        "title": "Tensorflow - Movenet",
+        "link": "https://colab.research.google.com/drive/17Q2RkWHEkWmbZ0xYaHC05YpFcvkmXv4W?usp=sharing"
     }
 ]
