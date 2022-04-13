@@ -1,8 +1,8 @@
 [
     {
-        "image": "assets/img/projects/project1.jpg",
+        "image": "assets/img/projects/edu.JPG",
         "title": "SW 교육 컨텐츠 공모전",
-        "link": "#"
+        "link": "assets/projects/2020sw_edu_contents.pdf"
     },
     {
         "image": "assets/img/projects/snakegame.JPG",
@@ -10,14 +10,14 @@
         "link": "assets/projects/OSS_snakepygame.pdf"
     },
     {
-        "image": "assets/img/projects/project1.jpg",
-        "title": "오픈소스하드웨어 - Arduino",
-        "link": "#"
+        "image": "assets/img/projects/opensourcehardware.png",
+        "title": "오픈소스하드웨어(Arduino) - 자동 김서림 와이퍼 ",
+        "link": "assets/projects/open_source_hardware.pdf"
     },
     {
-        "image": "assets/img/projects/project3.jpg",
+        "image": "assets/img/projects/capstone.JPG",
         "title": "캡스톤 - 스마트도어락(Arduino)",
-        "link": "#"
+        "link": "assets/projects/capstone_doorlock.pdf"
     },
     {
         "image": "assets/img/projects/project4.jpg",
@@ -25,12 +25,12 @@
         "link": "#"
     },
     {
-        "image": "assets/img/projects/project1_news.jpg",
+        "image": "assets/img/projects/navernewsimage.JPG",
         "title": "'NAVER' news Scraping & WordCloud",
         "link": "https://colab.research.google.com/drive/1vFvZKlmNcoBsa9dONuXIGbBJXrRGudGl?usp=sharing"
     },
     {
-        "image": "assets/img/projects/movenet_capture.jpg",
+        "image": "assets/img/projects/movenet_capture.png",
         "title": "Tensorflow - Movenet",
         "link": "https://colab.research.google.com/drive/17Q2RkWHEkWmbZ0xYaHC05YpFcvkmXv4W?usp=sharing"
     }
