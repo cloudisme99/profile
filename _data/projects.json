@@ -30,12 +30,12 @@
         "link": "https://colab.research.google.com/drive/1vFvZKlmNcoBsa9dONuXIGbBJXrRGudGl?usp=sharing"
     },
     {
-        "image": "assets/img/projects/movenet_capture.png",
+        "image": "assets/img/projects/movenet_capture1.png",
         "title": "Tensorflow - Movenet",
         "link": "https://colab.research.google.com/drive/17Q2RkWHEkWmbZ0xYaHC05YpFcvkmXv4W?usp=sharing"
     },
     {
-        "image": "assets/img/projects/num.png",
+        "image": "assets/img/projects/mnist_num.jpg",
         "title": "MNIST - 손글씨 숫자분류",
         "link": "https://colab.research.google.com/drive/13m_R0V-o89JJr4ze6wXNGHHBW3HT2h5v?usp=sharing"
     }
