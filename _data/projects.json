@@ -36,7 +36,12 @@
     },
     {
         "image": "assets/img/projects/mnist_num.jpg",
-        "title": "MNIST - 손글씨 숫자분류",
+        "title": "Tensorflow - MNIST: 손글씨 숫자 분류",
         "link": "https://colab.research.google.com/drive/13m_R0V-o89JJr4ze6wXNGHHBW3HT2h5v?usp=sharing"
+    },
+    {
+        "image": "assets/img/projects/yolo_capture.JPG",
+        "title": "YOLO - 물체감지",
+        "link": "https://colab.research.google.com/drive/1dCuiGpky_0b9L_RIM9_8Bmuatis_Vmxz?usp=sharing"
     }
 ]
